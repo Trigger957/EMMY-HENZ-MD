@@ -1,0 +1,82 @@
+
+{
+  "name": "EMMY_HENZ-MD",
+  "description": "WhatsApp Bot Using Lib Baileys",
+  "repository": "https://github.com/EMMYHENZ-TECH/EMMY-HENZ-MD",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["multi-device"],
+  "stack": "container",
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "Standard-2X"
+    }
+    },
+  "env": {
+    "SESSION_ID": {
+      "description": "Enter session id here; must start with XLICON-V4~",
+      "required": true
+    },
+    "BOT_NAME": {
+      "value": "EMMY_HENZ-MD",
+      "description": "Bot Name",
+       "required": true 
+    },
+    "OWNER_NUMBER": {
+      "value": "2349125042727",
+      "description": "Owner Number",
+       "required": true
+    },
+    "OWNER_NAME": {
+      "value": "EMMY HENZ",
+      "description": "Owner Name",
+       "required": true
+    },
+    "PACK_NAME": {
+      "value": "EMMY HENZ",
+      "description": "Sticker Package Name",
+       "required": false
+    },
+    "AUTHOR_NAME": {
+      "value": "EMMY HENZ",
+      "description": "Sticker Author Name",
+       "required": false
+    },
+    "PREFIX": {
+      "value": ".",
+      "description": "Bot Prefix",
+       "required": true
+    },
+    "PREMIUM_NUMBER": {
+      "value": "2349125042727",
+      "description": "Premium User IDs (comma-separated)",
+      "required": true
+    },
+    "MENU_TYPE": {
+      "value": "v2",
+      "description": "Menu Type (v1/v2)",
+       "required": false
+    },
+    "AUTOBLOCK_COUNTRYCODE": {
+      "value": "212",
+      "description": "Auto-Block Country Code",
+       "required": false
+    },
+    "ANTI_DELETE": {
+      "value": "false",
+      "description": "Anti-Delete (true to enable/false to disable)",
+       "required": false
+    },
+    "ANTIFOREIGN_COUNTRYCODE": {
+      "value": "91",
+      "description": "Anti-Foreign Number Country Code",
+       "required": false
+    }
+  },
+  "buildpacks": [
+    { "url": "heroku/nodejs" },
+    { "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git" },
+    { "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest" },
+    { "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git" }
+  ]
+}
