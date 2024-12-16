@@ -1,5 +1,5 @@
 # **EMMY HENZ MD**  
-![EMMY HENZ MD Bot]([<your-picture-url>](https://i.ibb.co/Wyk936v/emmyhenz.jpg))
+![EMMY HENZ MD Bot]([https://i.ibb.co/Wyk936v/emmyhenz.jpg](https://i.ibb.co/Wyk936v/emmyhenz.jpg))
 
 ---
 
@@ -31,8 +31,17 @@ Welcome to **EMMY HENZ MD**, a cutting-edge **Multi-Device WhatsApp Bot** design
 ### `DEPLOYEMENTS`
 
 ### TUTORIAL FOR PANEL
-<a href="[https://youtu.be/oJtzADwET28]"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/WpfdClSeQyg" /><br>
+
+### ***[`watch`](https://youtu.be/oJtzADwET28)***
+
+
 
 ### BOT HOSTING PANEL LINK
-<a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
-src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
+
+### ***[`Deploy`](https://bot-hosting.net/?aff=1271741477571006527)***
+
+
+### OUR CHANNEL
+
+### ***[`JOIN US`](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C/)***
+
