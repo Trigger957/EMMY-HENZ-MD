@@ -31,7 +31,7 @@ Welcome to **EMMY HENZ MD**, a cutting-edge **Multi-Device WhatsApp Bot** design
 ### `DEPLOYEMENTS`
 
 ### TUTORIAL FOR PANEL
-<a href="https://youtu.be/WpfdClSeQyg"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/WpfdClSeQyg" /><br>
+<a href="[https://youtu.be/oJtzADwET28]"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/WpfdClSeQyg" /><br>
 
 ### BOT HOSTING PANEL LINK
 <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
