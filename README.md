@@ -24,9 +24,8 @@ Welcome to **EMMY HENZ MD**, a cutting-edge **Multi-Device WhatsApp Bot** design
 
 ### Fork The Repo
 
---------
-<a href="https://github.com/EMMYHENZ-TECH/EMMY-HENZ-MD/fork"><img title="EMMY-HENZ-MD" src="https://img.shields.io/badge/FORK-EMMY-HENZ-MD-h?color=red&style=for-the-badge&logo=stackshare"></a>
---------|
+### ***[`fork`](https://github.com/EMMYHENZ-TECH/EMMY-HENZ-MD/fork)***
+
 
 ### `DEPLOYEMENTS`
 
