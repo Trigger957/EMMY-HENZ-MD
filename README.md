@@ -20,20 +20,19 @@ Welcome to **EMMY HENZ MD**, a cutting-edge **Multi-Device WhatsApp Bot** design
 
 ---
 
-## **Setup Instructions**  
+## **INSTALLATION**  
 
-### **Prerequisites**  
-Ensure you have the following installed on your system:  
-1. Node.js (v16 or higher)  
-2. Git  
-3. A WhatsApp number for bot registration  
+### Fork The Repo
 
----
+--------
+<a href="https://github.com/EMMYHENZ-TECH/EMMY-HENZ-MD/fork"><img title="EMMY-HENZ-MD" src="https://img.shields.io/badge/FORK-EMMY-HENZ-MD-h?color=red&style=for-the-badge&logo=stackshare"></a>
+--------|
 
-### **Installation**  
-Follow these steps to set up the bot on your local system:  
+### `DEPLOYEMENTS`
 
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/<your-repo>/EMMY-HENZ-MD.git
-   cd EMMY-HENZ-MD
+### TUTORIAL FOR PANEL
+<a href="https://youtu.be/WpfdClSeQyg"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/WpfdClSeQyg" /><br>
+
+### BOT HOSTING PANEL LINK
+<a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
+src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
