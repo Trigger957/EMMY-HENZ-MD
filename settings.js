@@ -9,7 +9,7 @@ global.ytname = process.env.YT_NAME || "YT: 𝐄𝐌𝐌𝐘 𝐇𝐄𝐍𝐙 �
 
 global.socialm = process.env.GITHUB_USERNAME || "GitHub: EMMYHENZ-TECH";
 
-global.location = process.env.LOCATION || "Africa, Nigeria, Calabar";
+global.location = process.env.LOCATION || "Africa, Ghana, Kumasi";
 
 
 //~~~~~~~~<Session and Bot Details>~~~~~~~~~~~~~\\
@@ -17,9 +17,9 @@ global.SESSION_ID = process.env.SESSION_ID || '';
 
 global.botname = process.env.BOT_NAME || '𝗘𝗠𝗠𝗬_𝗛𝗘𝗡𝗭-𝗠𝗗';
 
-global.ownernumber = [process.env.OWNER_NUMBER || '2349125042727'];
+global.ownernumber = [process.env.OWNER_NUMBER || '233536979044'];
 
-global.ownername = process.env.OWNER_NAME || '𝓚𝓘𝓝𝓖 EMMY HENZ';
+global.ownername = process.env.OWNER_NAME || 'Trigger';
 
 
 //~~~~~~<Website and Social Links>~~~~~~~~~~\\
@@ -35,17 +35,17 @@ global.wm = process.env.WATERMARK || "EMMY HENZ TECH.";
 
 global.botscript = process.env.SCRIPT_LINK || 'https://github.com/EMMYHENZ-TECH/';
 
-global.packname = process.env.PACK_NAME || "EMMY HENZ";
+global.packname = process.env.PACK_NAME || "Trigger";
 
-global.author = process.env.AUTHOR_NAME || "𝓝𝓞𝓑𝓛𝓔 EMMY HENZ";
+global.author = process.env.AUTHOR_NAME || "Trigger";
 
-global.creator = process.env.CREATOR_NUMBER || "2349125042727@s.whatsapp.net";
+global.creator = process.env.CREATOR_NUMBER || "233536979044@s.whatsapp.net";
 
 
 //~~~~~~~~~~~~~<Bot Settings>~~~~~~~~~~~~~~~\\
 global.xprefix = process.env.PREFIX || '.';
 
-global.premium = [process.env.PREMIUM_NUMBER || '2349125042727'];
+global.premium = [process.env.PREMIUM_NUMBER || '233536979044'];
 
 global.typemenu = process.env.MENU_TYPE || 'v2';
 
